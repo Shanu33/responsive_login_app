@@ -1,5 +1,3 @@
-<!-- README.md in HTML format -->
-
 <h1 align="center">📱 Responsive Login App / Web</h1>
 <p align="center"><em>A truly adaptive and cross-platform responsive login UI built using Flutter</em></p>
 
@@ -45,20 +43,46 @@
 <h3>🖥️ Desktop</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait" style="border:4px solid black; border-radius:8px;" >
+    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+      <tr>
+        <td style="border: 2px solid black; border-radius: 8px; padding: 0;">
+          <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait" style="display: block; border-radius: 8px;">
+        </td>
+      </tr>
+    </table>
   </li>
+
   <li><strong>Landscape View:</strong><br>
-   <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape" style="border:4px solid black; border-radius:8px;">
+    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+      <tr>
+        <td style="border: 2px solid black; border-radius: 8px; padding: 0;">
+          <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape" style="display: block; border-radius: 8px;">
+        </td>
+      </tr>
+    </table>
   </li>
 </ul>
 
 <h3>📱 Mobile</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-   <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait" style="border:4px solid black; border-radius:8px;">
+    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+      <tr>
+        <td style="border: 2px solid black; border-radius: 8px; padding: 0;">
+          <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait" style="display: block; border-radius: 8px;">
+        </td>
+      </tr>
+    </table>
   </li>
+
   <li><strong>Landscape View:</strong><br>
-    <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF" style="border:4px solid black; border-radius:8px;">
+    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+      <tr>
+        <td style="border: 2px solid black; border-radius: 8px; padding: 0;">
+          <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF" style="display: block; border-radius: 8px;">
+        </td>
+      </tr>
+    </table>
   </li>
 </ul>
 
@@ -99,7 +123,6 @@
 ---
 
 <h2>🙏 Credits</h2>
-
 <p>
   Special thanks to <strong><a href="https://www.figma.com/@MMarwan?fuid=1518655903515858290">Marwan</a></strong><br>
   for the original <a href="https://www.figma.com/design/Q9MAaLfWaffLHsjQlKY2ey/Login-Page--Community-">Login UI Template on Figma</a>.<br>
