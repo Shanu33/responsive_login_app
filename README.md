@@ -55,7 +55,7 @@
 <h3>📱 Mobile</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="resources/IMG_9557.png" width="280" alt="Mobile Portrait Image Section">
+    <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
     <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="320" alt="Mobile Landscape GIF Section">
