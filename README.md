@@ -31,9 +31,9 @@
 <h2>📦 Cross Platform Builds</h2>
 
 <ul>
-  <li>📱 <strong>Android:</strong> <a href="https://github.com/Shanu33/responsive_login_app/blob/main/resources/app-release.apk">Click here to download APK</a></li>
-  <li>🪟 <strong>Windows:</strong> <a href="https://github.com/Shanu33/responsive_login_app/blob/main/resources/responsive_login_app.exe">Click here to download EXE</a></li>
-  <li>🐧 <strong>Linux:</strong> <a href="https://github.com/Shanu33/responsive_login_app/blob/main/resources/responsive_login_app">Click here to download executable</a></li>
+  <li>📱 <strong>Android:</strong> <a href="https://raw.githubusercontent.com/Shanu33/responsive_login_app/main/resources/app-release.apk">Download APK</a></li>
+  <li>🪟 <strong>Windows:</strong> <a href="https://raw.githubusercontent.com/Shanu33/responsive_login_app/main/resources/responsive_login_app.exe">Download EXE</a></li>
+  <li>🐧 <strong>Linux:</strong> <a href="https://raw.githubusercontent.com/Shanu33/responsive_login_app/main/resources/responsive_login_app">Download Executable</a></li>
   <li>🌐 <strong>Web:</strong> <a href="https://shanu33.github.io/responsive_login_app/">Click here to open the website</a></li>
   <li>🍏 <strong>iOS/macOS:</strong> Download the ZIP and build it manually for the platform.</li>
 </ul>
