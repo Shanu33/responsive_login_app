@@ -79,7 +79,7 @@
     <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
       <tr>
         <td style="border: 2px solid black; border-radius: 8px; padding: 0;">
-          <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="660" height="390" alt="Mobile Landscape GIF" style="display: block; border-radius: 8px;">
+          <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="400" alt="Mobile Landscape GIF" style="display: block; border-radius: 8px;">
         </td>
       </tr>
     </table>
