@@ -55,7 +55,7 @@
 <h3>📱 Mobile</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="assets/screenshots/mobile_portrait.png" width="280" alt="Mobile Portrait Image Section">
+    <img src="resources/IMG_9557.png" width="280" alt="Mobile Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
     <img src="assets/screenshots/mobile_landscape.gif" width="320" alt="Mobile Landscape GIF Section">
