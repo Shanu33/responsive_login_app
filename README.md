@@ -45,20 +45,20 @@
 <h3>🖥️ Desktop</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait Image Section">
+    <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait Image Section" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
   </li>
   <li><strong>Landscape View:</strong><br>
-    <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape Image Section">
+    <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape Image Section" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
   </li>
 </ul>
 
 <h3>📱 Mobile</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait Image Section">
+    <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait Image Section" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
   </li>
   <li><strong>Landscape View:</strong><br>
-    <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF Section">
+    <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF Section" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
   </li>
 </ul>
 
