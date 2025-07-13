@@ -48,7 +48,7 @@
     <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
-    <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="350" alt="Desktop Landscape Image Section">
+    <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape Image Section">
   </li>
 </ul>
 
