@@ -58,7 +58,7 @@
     <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
-    <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="320" alt="Mobile Landscape GIF Section">
+    <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF Section">
   </li>
 </ul>
 
