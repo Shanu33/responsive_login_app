@@ -45,10 +45,10 @@
 <h3>🖥️ Desktop</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="assets/screenshots/desktop_portrait.png" width="400" alt="Desktop Portrait Image Section">
+    <img src="resources/Screenshot 2025-07-13 143341.png" width="400" alt="Desktop Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
-    <img src="assets/screenshots/desktop_landscape.png" width="600" alt="Desktop Landscape Image Section">
+    <img src="resources/Screenshot 2025-07-13 143311.png" width="600" alt="Desktop Landscape Image Section">
   </li>
 </ul>
 
@@ -58,7 +58,7 @@
     <img src="resources/IMG_9557.png" width="280" alt="Mobile Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
-    <img src="assets/screenshots/mobile_landscape.gif" width="320" alt="Mobile Landscape GIF Section">
+    <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="320" alt="Mobile Landscape GIF Section">
   </li>
 </ul>
 
