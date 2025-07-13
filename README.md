@@ -45,7 +45,7 @@
 <h3>🖥️ Desktop</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <img src="resources/Screenshot 2025-07-13 143341.png" width="350" height="600" alt="Desktop Portrait Image Section">
+    <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait Image Section">
   </li>
   <li><strong>Landscape View:</strong><br>
     <img src="resources/Screenshot 2025-07-13 143311.png" width="600" alt="Desktop Landscape Image Section">
