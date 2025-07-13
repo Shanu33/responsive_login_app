@@ -31,7 +31,7 @@
 <h2>📦 Cross Platform Builds</h2>
 
 <ul>
-  <li>📱 <strong>Android:</strong> <a href="#">Click here to download APK</a></li>
+  <li>📱 <strong>Android:</strong> <a href="https://github.com/Shanu33/responsive_login_app/blob/main/resources/app-release.apk">Click here to download APK</a></li>
   <li>🪟 <strong>Windows:</strong> <a href="#">Click here to download EXE</a></li>
   <li>🐧 <strong>Linux:</strong> <a href="#">Click here to download executable</a></li>
   <li>🌐 <strong>Web:</strong> <a href="https://shanu33.github.io/responsive_login_app/">Click here to open the website</a></li>
