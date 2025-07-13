@@ -45,34 +45,31 @@
 <h3>🖥️ Desktop</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <div style="border: 2px solid black; border-radius: 10px; padding: 8px; display: inline-block;">
-      <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
-    </div>
+    <table><tr><td style="border:2px solid black; border-radius:8px; padding:6px;">
+      <img src="resources/Screenshot 2025-07-13 143341.png" width="300" height="650" alt="Desktop Portrait">
+    </td></tr></table>
   </li>
-
   <li><strong>Landscape View:</strong><br>
-    <div style="border: 2px solid black; border-radius: 10px; padding: 8px; display: inline-block;">
-      <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
-    </div>
+    <table><tr><td style="border:2px solid black; border-radius:8px; padding:6px;">
+      <img src="resources/Screenshot 2025-07-13 143311.png" width="650" height="360" alt="Desktop Landscape">
+    </td></tr></table>
   </li>
 </ul>
 
 <h3>📱 Mobile</h3>
 <ul>
   <li><strong>Portrait View:</strong><br>
-    <div style="border: 2px solid black; border-radius: 10px; padding: 8px; display: inline-block;">
-      <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
-    </div>
+    <table><tr><td style="border:2px solid black; border-radius:8px; padding:6px;">
+      <img src="resources/IMG_9557.png" width="300" height="650" alt="Mobile Portrait">
+    </td></tr></table>
   </li>
-
   <li><strong>Landscape View:</strong><br>
-    <div style="border: 2px solid black; border-radius: 10px; padding: 8px; display: inline-block;">
-      <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF" style="border: 1px solid #ccc; border-radius: 8px; padding: 4px;">
-    </div>
+    <table><tr><td style="border:2px solid black; border-radius:8px; padding:6px;">
+      <img src="resources/video-output-927A1ED6-35BA-4122-8081-37F88D2047D4-2-ezgif.com-video-to-gif-converter.gif" width="650" height="360" alt="Mobile Landscape GIF">
+    </td></tr></table>
   </li>
 </ul>
 
-<p><em>Note: The image and GIF sections automatically adjust to optimal screen dimensions for visibility without overwhelming the layout.</em></p>
 
 ---
 
